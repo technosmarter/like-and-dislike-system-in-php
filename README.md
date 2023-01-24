@@ -1,8 +1,8 @@
 # Like and dislike system in PHP and MYSQL
-Create like and dislike system in PHP with MYSQL database. Like and dislike system using PHP ,AJAX ,jQuery and MYSQL database. Like and dislike system is used to like posts.
+Create like and dislike system in PHP with MYSQL database. Like and dislike system using PHP ,AJAX ,jQuery and MYSQL database. Like and dislike system is used to like and dislike posts.
 ![image](https://user-images.githubusercontent.com/41726733/214283783-c5428a9a-f6d6-40d9-bd95-18c4f7acf313.png)
 
-A user can like , unlike and dislike , undislike anypost afer login. Create like and unlike system in PHP with MYSQL database. 
+A user can like , unlike and dislike , undislike any post afer login. Create like and unlike system in PHP with MYSQL database. 
 ![image](https://user-images.githubusercontent.com/41726733/214283819-660e9f82-6424-4f15-85e3-3f51e51861dd.png)
 
 This source code is created for development. You can use it for your project.
@@ -27,7 +27,7 @@ This is the complete source code for the <a href="https://technosmarter.com/item
 4. Import database from the database folder . You can find database folder .<br>
 5. Edit config.php file and set your host , database name , username and password .<br>
 6. Execute the code . You can <a href="https://technosmarter.com/contact">contact</a> for any help and support .<br>
- This is complete source code for Subscribe system in PHP and MYSQL .
+ This is complete source code for like and dislike system in PHP and MYSQL .
 # Developer
 <a href="https://technosmarter.com/">Techno Smarter</a>
 # How to create like and dislike system using PHP | Source code
