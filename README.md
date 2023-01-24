@@ -1,6 +1,10 @@
 # Like and dislike system in PHP and MYSQL
 Create like and dislike system in PHP with MYSQL database. Like and dislike system using PHP ,AJAX ,jQuery and MYSQL database. Like and dislike system is used to like posts.
+![image](https://user-images.githubusercontent.com/41726733/214283783-c5428a9a-f6d6-40d9-bd95-18c4f7acf313.png)
+
 A user can like , unlike and dislike , undislike anypost afer login. Create like and unlike system in PHP with MYSQL database. 
+![image](https://user-images.githubusercontent.com/41726733/214283819-660e9f82-6424-4f15-85e3-3f51e51861dd.png)
+
 This source code is created for development. You can use it for your project.
 # Features
 Like and dislike icons<br>
